@@ -57,7 +57,7 @@ function print_color() {
 # Homebrew setup
 
 print_color "———————————————————————————————————————————————————————————————————" green bold
-print_color "Installing oh my zsh & setting homebrew" green bold
+print_color "Installing & setting up homebrew" green bold
 print_color "———————————————————————————————————————————————————————————————————" green bold
 
 which -s brew
