@@ -2,11 +2,9 @@
 
 Get your macOS machine ready to develop React Native applications in just a few minutes. Hassle free.
 
-
 ### Supported machines
 
 Since we're not using Intel machines, we only support `macOS` machines with Apple Silicon (`arm64`).
-
 
 ### Contents
 
@@ -31,6 +29,9 @@ This starter pack installs and sets up required prerequisites for React Native d
   
 </details>
 
+### Contribution
+
+This is fully open-source based project. We're always looking for your [ideas](https://github.com/kilohealth/react-native-starter-pack/discussions), [contributions](https://github.com/kilohealth/react-native-starter-pack/pulls) and [issue reports](https://github.com/kilohealth/react-native-starter-pack/issues)
 
 # How to use
 
