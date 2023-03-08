@@ -16,7 +16,7 @@ This starter pack installs and sets up required prerequisites for React Native d
   <summary>What are the things that we install?</summary>
   
   - `brew`
-  - Xcode
+  - `xcodes` & Xcode
   - `yarn`
   - `npm`
   - `nvm` & `node@16`
